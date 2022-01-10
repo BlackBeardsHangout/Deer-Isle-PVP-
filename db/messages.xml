@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+    <message>
+        <repeat>15</repeat>
+        <text>Make sure to read server rules by pressing "B". Thank you :-)</text>
+    </message>
+
+    <message>
+        <repeat>15</repeat>
+        <text>Server restarts automatically every 4 hours at: 0400 EST (4:00AM) 0800 EST (8:00AM) 1200 EST (12:00PM) 1500 EST (3:00PM) 1800 EST (7:00PM) 2200 EST (11:00PM)</text>
+    </message>
+
+    <message>
+        <delay>10</delay>
+        <repeat>50</repeat>
+        <onconnect>1</onconnect>
+        <text>Want to make us a loading screen photo? Post yours in "#loading-screen-entry" on discord! The one with the most reactions by 1/31/2022 wins! Picking 5...</text>
+    </message>
+ 
+</messages>
