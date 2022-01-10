@@ -1,0 +1,19 @@
+{
+    "m_Version": 8,
+    "DisplayName": "CRYPTO",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Bitcoin",
+            "MaxPriceThreshold": 9400,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100000,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "m_Version": 8,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_FURNISHINGS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "expansiongunrack",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionstove",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 6500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_SleepingBag_Green",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_SleepingBag_Blue",
+			"Msp_SleepingBag_LimeGreen",
+			"Msp_SleepingBag_Orange",
+			"Msp_SleepingBag_Purple",
+			"Msp_SleepingBag_Red"
+			]
+        },
+        {
+            "ClassName": "Msp_Mattress_Blue",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_Mattress_Green",
+			"Msp_Mattress_Pink",
+			"Msp_Mattress_Yellow"
+			]
+        },
+        {
+            "ClassName": "Msp_HousePlant_Philodendron",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_HousePlant_FicusTree",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_HousePlant_RubberFig",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_HousePlant_Succulent",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Msp_PlanterBox",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_EmptyPlanterBox"
+			]
+        },
+        {
+            "ClassName": "Msp_SquarePlanterBox",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_EmptySquarePlanterBox"
+			]
+        },
+        {
+            "ClassName": "Msp_PlanterPot",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_EmptyPlanterPot"
+			]
+			
+        },
+		{
+            "ClassName": "Msp_WaterBarrel_Stand",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_WaterBarrel_Stand_Darkwood"
+			]
+        },
+		{
+            "ClassName": "Msp_WaterBarrel",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_WaterBarrel_Plastic",
+			"Msp_WaterBarrel_Plastic_Yellow",
+			"Msp_WaterBarrel_Plastic_Green",
+			"Msp_WaterBarrel_Plastic_Red",
+			"Msp_WaterBarrel_Plastic_Black",
+			"Msp_WaterBarrel_Plastic_White",
+			"Msp_WaterBarrel_Darkwood"
+			]
+        },
+		{
+            "ClassName": "Msp_WaterBarrel_Valve",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_WaterBarrel_Valve_Darkwood",
+			"Msp_WaterBarrel_Valve_Faucet"
+			]
+        }
+    ]
+}

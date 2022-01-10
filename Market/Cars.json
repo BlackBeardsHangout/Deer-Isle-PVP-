@@ -1,0 +1,99 @@
+{
+    "m_Version": 8,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CARS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "expansiontractor",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansiontractorbackwheel",
+                "expansiontractorbackwheel",
+                "expansiontractorfrontwheel",
+                "expansiontractorfrontwheel",
+                "expansiontractordoorsdriver",
+                "expansiontractordoorscodriver",
+                "headlighth7",
+                "headlighth7",
+                "sparkplug",
+                "carbattery"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionuaz",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 40000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionuazwheel",
+                "expansionuazwheel",
+                "expansionuazwheel",
+                "expansionuazwheel",
+                "carbattery",
+                "carradiator",
+                "sparkplug",
+                "expansionuazdoorhood",
+                "expansionuazdoordriver",
+                "expansionuazdoorcodriver",
+                "expansionuazdoorcargo1",
+                "expansionuazdoorcargo2",
+                "headlighth7",
+                "headlighth7"
+            ],
+            "Variants": [
+                "expansionuazroofless",
+                "expansionuazcargo",
+                "expansionuazcargoroofless"
+            ]
+        },
+        {
+            "ClassName": "expansionbus",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionbuswheel",
+                "expansionbuswheel",
+                "expansionbuswheeldouble",
+                "expansionbuswheeldouble",
+                "headlighth7",
+                "headlighth7",
+                "truckbattery",
+                "carradiator",
+                "glowplug"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionvodnik",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionvodnikwheel",
+                "expansionvodnikwheel",
+                "expansionvodnikwheel",
+                "expansionvodnikwheel",
+                "truckbattery",
+                "carradiator",
+                "sparkplug",
+                "expansionvodnikdoordriver",
+                "expansionvodnikdoorcodriver"
+            ],
+            "Variants": []
+		}
+    ]
+}

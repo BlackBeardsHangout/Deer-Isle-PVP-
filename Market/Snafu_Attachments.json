@@ -1,0 +1,349 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Snafu Attachments",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+    {
+      "ClassName": "gcgn_m1garand_bayonet",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "gcgn_m1garand_flashhider",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_556_barrel10",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_556_barrel14",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_556_barrel14_dv",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_556_barrel16",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_ak_mount_base",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_gigripcolta2",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_hunting_mount_base",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_mosin_mount_base",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_peq1_laser",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_pistolgripcolta2",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_sks_bayonet",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_tacgripcolta2_bk",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_tacgripcolta2_grey",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_tacgripcolta2_od",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_tacgripcolta2_tan",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafuuniversallight",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_atlasbipod",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_bipod",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_modbipod",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_npkpbipod",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_pkpbipod",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sa58_fgrip",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_afg_02_black",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_afg_02_od",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_afg_02_tan",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_fgcr_grip",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafu_fgkac_grip",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafuar15_afg",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafumpx_grip",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafuscar_afg_bk",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafuscar_afg_tan",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "snafuscar_afg_tan",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

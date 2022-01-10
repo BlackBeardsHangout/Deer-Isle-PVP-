@@ -1,0 +1,136 @@
+{
+    "m_Version": 8,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_GHILLIES",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "ghilliehood_tan",
+            "MaxPriceThreshold": 4400,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": -1,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ghilliehood_woodland",
+                "ghilliehood_mossy"
+            ]
+        },
+        {
+            "ClassName": "ghilliebushrag_tan",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ghilliebushrag_woodland",
+                "ghilliebushrag_mossy"
+            ]
+        },
+        {
+            "ClassName": "ghillietop_tan",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": -1,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ghillietop_woodland",
+                "ghillietop_mossy"
+            ]
+        },
+        {
+            "ClassName": "ghilliesuit_tan",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ghilliesuit_woodland",
+                "ghilliesuit_mossy"
+            ]
+        },
+        {
+            "ClassName": "MassGhillieSuitWoodland",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MassGhillieSuitMossy",
+			"MassGhillieSuitSnow"
+			]
+        },
+        {
+            "ClassName": "MassGhillieTopWoodland",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MassGhillieTopMossy",
+			"MassGhillieTopSnow"
+			]
+        },
+        {
+            "ClassName": "MassGhillieHood_Woodland",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MassGhillieHood_Snowy",
+			"MassGhillieHoodMossy"
+			]
+        },
+        {
+            "ClassName": "MassGhillieSuitBoxWoodland",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MassGhillieSuitBoxMossy",
+			"MassGhillieSuitBoxWinter"
+			]
+        },
+        {
+            "ClassName": "MassGhillieTopBoxWoodland",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MassGhillieTopBoxWinter",
+			"MassGhillieTopBoxMossy"
+			]
+        },
+        {
+            "ClassName": "poncho_camo_mung",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

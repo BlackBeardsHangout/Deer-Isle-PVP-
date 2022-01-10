@@ -1,0 +1,62 @@
+{
+    "m_Version": 8,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EVENT",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "easteregg",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "crookednose",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "cauldron",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "witchhat",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "witchhood_black",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "witchhood_brown",
+                "witchhood_red"
+            ]
+        }
+    ]
+}
